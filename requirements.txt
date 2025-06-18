@@ -3,6 +3,6 @@
 flask
 flask-cors
 easyocr
-torch==1.13.1+cpu
-torchvision==0.14.1+cpu
+torch==1.13.1
+torchvision==0.14.1
 gunicorn
